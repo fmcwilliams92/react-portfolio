@@ -9,7 +9,11 @@ function About() {
       <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
       <div className="my-2">
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum turpis sed ex condimentum molestie. Mauris condimentum lectus ut ornare dignissim. Mauris faucibus urna mi, ac feugiat metus aliquam maximus. Proin aliquam justo nec diam vulputate vestibulum. Aenean sollicitudin nulla at nisi ornare, nec suscipit massa eleifend. Morbi tristique justo vel turpis sollicitudin, et tristique velit convallis. In hac habitasse platea dictumst. Phasellus mattis nunc sed orci consequat laoreet. Praesent id nisl nibh. Curabitur imperdiet ultricies mollis. In hac habitasse platea dictumst.
+          Hello, my name is Fred McWilliams, im a 29 year old up and coming web developer currently working
+          as a systems specialist. For the past 5 months I have been studying the UT in the Full Stack Web
+          Development boot camp, learning many things, with so much more to learn. My goal is to follow my dreams
+          of becoming a web developer, learning new things every day and expanding on what ive already learned, and perfecting
+          what I havnt. Please take the time to review my profile and reach out if you have any questions!
       </p>
       </div>
     </section>
